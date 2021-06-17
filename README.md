@@ -38,13 +38,13 @@ The changes have been made, yet the mockup remains unchanged.:
 
 ### Deployment: 32%
 
-* Application deployed at live URL.- [ ]
+* Application deployed at live URL.- [X]
 
-* Application loads with no errors. - [ ]
+* Application loads with no errors. - [X]
 
 * Application GitHub URL submitted. - []
 
-* GitHub repository contains application code. - []
+* GitHub repository contains application code. - [X]
 
 ### Application Quality: 15%
 
@@ -58,7 +58,7 @@ The changes have been made, yet the mockup remains unchanged.:
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.  - [X]
 
-* Repository contains multiple descriptive commit messages. - [ ]
+* Repository contains multiple descriptive commit messages. - [X]
 
 * Repository contains quality README file with description, screenshot, and link to deployed application. - [ ]
 
