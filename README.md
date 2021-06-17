@@ -24,7 +24,11 @@ THEN I find a concise, descriptive title - [X]
 
 The changes have been made, yet the mockup remains unchanged.:
 
-![The Horiseon webpage mockup remains unchanged.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage mockup remains unchanged.](/Users/tayloranderson/dev/uwcodecamp/Homework Submissions/Homework-02/docs/assets/images/mockup.png)
+
+## Link to deployed application
+
+https://newengood.github.io/Homework-02/#smm
 
 ### Technical Acceptance Criteria: 40%
 
