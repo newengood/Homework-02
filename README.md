@@ -46,7 +46,7 @@ https://newengood.github.io/homework-01-submission/
 
 * Application loads with no errors. - [X]
 
-* Application GitHub URL submitted. - []
+* Application GitHub URL submitted. - [X]
 
 * GitHub repository contains application code. - [X]
 
