@@ -64,7 +64,7 @@ https://newengood.github.io/Homework-02/
 
 * Repository contains multiple descriptive commit messages. - [X]
 
-* Repository contains quality README file with description, screenshot, and link to deployed application. - [ ]
+* Repository contains quality README file with description, screenshot, and link to deployed application. - [X]
 
 ---
 © 2021 Newengood
