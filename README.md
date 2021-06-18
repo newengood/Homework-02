@@ -28,7 +28,7 @@ The changes have been made, yet the mockup remains unchanged.:
 
 ## Link to deployed application
 
-https://newengood.github.io/Homework-02/#smm
+https://newengood.github.io/Homework-02/
 
 ### Technical Acceptance Criteria: 40%
 
