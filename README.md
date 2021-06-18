@@ -28,7 +28,7 @@ The changes have been made, yet the mockup remains unchanged.:
 
 ## Link to deployed application
 
-https://newengood.github.io/Homework-02/
+https://newengood.github.io/homework-01-submission/
 
 ### Technical Acceptance Criteria: 40%
 
@@ -46,7 +46,7 @@ https://newengood.github.io/Homework-02/
 
 * Application loads with no errors. - [X]
 
-* Application GitHub URL submitted. - [X]
+* Application GitHub URL submitted. - []
 
 * GitHub repository contains application code. - [X]
 
