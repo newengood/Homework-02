@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title - [X]
 
 The changes have been made, yet the mockup remains unchanged.:
 
-![The Horiseon webpage mockup remains unchanged.](.assets/images/mockup.jpg)
+![The Horiseon webpage mockup remains unchanged.](assets/images/mockup.jpg)
 
 ## Link to deployed application
 
