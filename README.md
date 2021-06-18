@@ -24,15 +24,11 @@ THEN I find a concise, descriptive title - [X]
 
 The changes have been made, yet the mockup remains unchanged.:
 
-<<<<<<< HEAD
-![The Horiseon webpage mockup remains unchanged.](.assets/images/mockup.jpg)
-=======
-![The Horiseon webpage mockup remains unchanged.](.docs/assets/images/mockup.png)
->>>>>>> 338c46aebbfa7cb7146885515cc0eac813234758
+![The Horiseon webpage mockup remains unchanged.](.assets/images/mockup.png)
 
 ## Link to deployed application
 
-https://newengood.github.io/Homework-02/#smm
+https://newengood.github.io/Homework-02/
 
 ### Technical Acceptance Criteria: 40%
 
