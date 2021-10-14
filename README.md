@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor ||Submission||
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Task
 
@@ -67,4 +67,3 @@ https://newengood.github.io/homework-01-submission/
 * Repository contains quality README file with description, screenshot, and link to deployed application. - [X]
 
 ---
-© 2021 Newengood
