@@ -28,7 +28,7 @@ The changes have been made, yet the mockup remains unchanged.:
 
 ## Link to deployed application
 
-https://newengood.github.io/homework-01-submission/
+https://newengood.github.io/code-refactor/
 
 ### Technical Acceptance Criteria: 40%
 
